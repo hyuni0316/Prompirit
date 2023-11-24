@@ -1,13 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Prompirit"/>
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=🪄Prompirit&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF)
 
-# Prompirit: Prompt Editing AI Tool to Create AI-Generative Work Using User Emotion
+# 🪄Prompirit: Prompt Editing AI Tool to Create AI-Generative Work Using User Emotion
 
 “이미지 GenAI 프롬프트 최적화를 제공하는 Prompirit은 사용자 발화 및 사용자 감정의 키워드를 분석하는 Multi-modal AI 프롬프트 엔지니어링 도구를 사용해 
 text prompt를 생성한 후, 이를 GenAI의 input 프롬프트로 활용하여 사용자의 감정을 보다 정교하게 반영한 이미지 결과물을 생성하도록 한다.”
 <br/>
 <br/>
 
-## 목차
+## 💚 Info
+### 23-2, 24-1 이화여자대학교 캡스톤디자인 
+**18 앤트(AnT)** | @gamddalki @hyuni0316 @syou-b
+<br/>
+<br/>
+
+## 💁‍♀️ 목차
 - [제안내용](#제안내용)
 - [Research Questions](#research-questions)
 - [구현방법](#구현방법)
@@ -50,12 +56,13 @@ text prompt를 생성한 후, 이를 GenAI의 input 프롬프트로 활용하여
 <br/>
 
 ## 세부기술
-PyTorch<br/>
-OpenCV<br/>
-Generative AI - Stable diffusion / DALL.E<br/>
-Multi-modal Emotion Recognition - Tensor Fusion Network<br/>
-Training Dataset (multi modal) - 영어(CMU-MOSI)/한국어(AI-Hub 멀티모달 영상)<br/>
-Multi-class sentiment analysis - KoBERT <br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> 
+</br>
+
+- Generative AI - Stable diffusion / DALL.E
+- Multi-modal Emotion Recognition - Tensor Fusion Network
+- Training Dataset (multi modal) - 영어(CMU-MOSI)/한국어(AI-Hub 멀티모달 영상)
+- Multi-class sentiment analysis - KoBERT <br/>
 <br/>
 
 ## Contribution
