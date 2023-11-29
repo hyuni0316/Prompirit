@@ -8,8 +8,8 @@ text prompt를 생성한 후, 이를 GenAI의 input 프롬프트로 활용하여
 <br/>
 
 ## 💚 Info
-### 23-2, 24-1 이화여자대학교 캡스톤디자인 
-**18 앤트(AnT)** | @gamddalki @hyuni0316 @syou-b
+### 23-2, 24-1 이화여자대학교 캡스톤디자인 🎨 18팀 앤트(AnT)
+@gamddalki @hyuni0316 @syou-b
 <br/>
 <br/>
 
